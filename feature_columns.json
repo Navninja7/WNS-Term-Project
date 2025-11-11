@@ -1,0 +1,1 @@
+{"features": ["deauth_count", "disassoc_count", "probe_req_count", "beacon_count", "assoc_count", "unique_assoc_srcs"], "window_size": 10.0}
